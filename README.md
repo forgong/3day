@@ -1,6 +1,6 @@
-파일 만드는법
+파일 만드는법 </br>
 
-git init 
+git init  </br>
 echo "# xxx" >> README.md
 git add. xxxxxxx
 git add .
